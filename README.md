@@ -42,7 +42,7 @@
 ---
 
 ### 🎵 Немного вайба для профиля
-![Snake animation](https://github.com/immehroj/immehroj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/immehroj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
