@@ -39,14 +39,3 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immehroj&theme=radical)
 
----
-
-### 🎵 Немного вайба для профиля
-![Snake animation](https://github.com/immehroj/immehroj/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
-### 🌍 Соцсети
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНК)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_НИК)
