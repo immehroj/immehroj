@@ -34,15 +34,15 @@
 ---
 
 ### 📊 GitHub Статистика
-![Mehrooj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)  
+![Mehrooj's GitHub stats](https://github-readme-stats.vercel.app/api?username=immehroj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immehroj&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immehroj&theme=radical)
 
 ---
 
 ### 🎵 Немного вайба для профиля
-![Snake animation](https://github.com/ТВОЙ_НИК/ТВОЙ_НИК/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ТВОЙ_НИК/immehroj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
