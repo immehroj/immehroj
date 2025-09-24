@@ -2,7 +2,7 @@
 
 💻 Data Engineer | Data Analyst   
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&lines=Data+Engineer;Backend+Developer;Python+Enthusiast;Future+Go+Developer&center=true&width=500&height=50" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&lines=Data+Engineer;Python+Enthusiast&center=true&width=500&height=50" alt="Typing SVG" />
 
 ---
 
