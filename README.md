@@ -8,9 +8,10 @@
 
 ### 🚀 Обо мне
 - 🔧 Строю пайплайны данных и автоматизирую процессы  
-- 🐍 Люблю Python (Pandas, NumPy, Matplotlib)  
+- 🐍 Уверенно владею Python (Pandas, NumPy, Matplotlib)  
 - 🛢 Работаю с SQL и PostgreSQL  
-- ☁️ Изучаю ClickHouse, Docker, Airflow  
+- ☁️ Использую ClickHouse, Docker, Airflow  
+- 🌍 Интересуюсь распределёнными системами и оптимизацией
 
 ---
 
