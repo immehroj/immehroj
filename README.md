@@ -17,7 +17,8 @@ I'm passionate about building **data pipelines**, **automating processes**, and 
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tech Stack & Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -28,9 +29,22 @@ I'm passionate about building **data pipelines**, **automating processes**, and 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<p align="left">
+<strong>Python:</strong>
+<img src="https://progress-bar.dev/95/?title=Python&width=300&suffix=%25" /><br>
+<strong>Pandas:</strong>
+<img src="https://progress-bar.dev/90/?title=Pandas&width=300&suffix=%25" /><br>
+<strong>SQL:</strong>
+<img src="https://progress-bar.dev/85/?title=SQL&width=300&suffix=%25" /><br>
+<strong>Docker:</strong>
+<img src="https://progress-bar.dev/80/?title=Docker&width=300&suffix=%25" /><br>
+<strong>Airflow:</strong>
+<img src="https://progress-bar.dev/70/?title=Airflow&width=300&suffix=%25" />
+</p>
+
 ---
 
-### 🌟 Fun Animations & Stats
+### 🌟 GitHub Stats & Fun Animations
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=immehroj&theme=radical" alt="GitHub Streak" />
   <br>
@@ -57,4 +71,9 @@ I'm passionate about building **data pipelines**, **automating processes**, and 
 ### ⚡ Fun Facts
 - 🎮 I love coding while listening to music  
 - ☕ Coffee keeps my Python running  
-- 🚀 Always exploring new data tech
+- 🚀 Always exploring new data tech  
+
+---
+
+### 🔥 Let's Animate!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=%23FF5733&center=true&width=600&lines=Building+Data+Pipelines;Automating+Processes;Learning+New+Tech" />
