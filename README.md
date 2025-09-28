@@ -33,19 +33,6 @@ I'm passionate about building **data pipelines**, **automating processes**, and 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">
-<strong>Python:</strong>
-<img src="https://progress-bar.dev/95/?title=Python&width=300&suffix=%25" /><br>
-<strong>Pandas:</strong>
-<img src="https://progress-bar.dev/90/?title=Pandas&width=300&suffix=%25" /><br>
-<strong>SQL:</strong>
-<img src="https://progress-bar.dev/85/?title=SQL&width=300&suffix=%25" /><br>
-<strong>Docker:</strong>
-<img src="https://progress-bar.dev/80/?title=Docker&width=300&suffix=%25" /><br>
-<strong>Airflow:</strong>
-<img src="https://progress-bar.dev/70/?title=Airflow&width=300&suffix=%25" />
-</p>
-
 ---
 
 ### 🌟 GitHub Stats & Fun Animations
@@ -53,21 +40,6 @@ I'm passionate about building **data pipelines**, **automating processes**, and 
   <img src="https://github-readme-streak-stats.demolab.com?user=immehroj&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=immehroj&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
-### 📫 Contact Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/immehroj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mehroj-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mehroj@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/immehroj" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 ---
