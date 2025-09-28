@@ -35,21 +35,7 @@ I'm passionate about building **data pipelines**, **automating processes**, and 
 
 ---
 
-### 🌟 GitHub Stats & Fun Animations
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=immehroj&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=immehroj&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
 ### ⚡ Fun Facts
 - 🎮 I love coding while listening to music  
 - ☕ Coffee keeps my Python running  
 - 🚀 Always exploring new data tech  
-
----
-
-### 🔥 Let's Animate!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=%23FF5733&center=true&width=600&lines=Building+Data+Pipelines;Automating+Processes;Learning+New+Tech" />
